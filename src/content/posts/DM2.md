@@ -4,6 +4,7 @@ published: 2024-03-31
 description: 主要介绍谓词, 量词, 谓词公式, 变量的约束
 tags: [逻辑, 离散数学]
 categories: 课程笔记
+draft: false
 ---
 
 # 谓词逻辑

@@ -4,6 +4,7 @@ published: 2024-04-08
 description: 主要介绍了嵌套量词和一阶逻辑等值式
 tags: [逻辑, 离散数学]
 categories: 课程笔记
+draft: false
 ---
 
 # 嵌套量词

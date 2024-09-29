@@ -4,6 +4,7 @@ published: 2024-03-09
 description: 主要介绍了命题逻辑, 逻辑运算符, 真值表, 命题等价式, 范式等
 tags: [逻辑, 离散数学]
 categories: 课程笔记
+draft: false
 ---
 
 

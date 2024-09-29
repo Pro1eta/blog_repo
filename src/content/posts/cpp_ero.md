@@ -4,6 +4,7 @@ published: 2024-06-25
 description:
 tags: [C/C++, Linux, ros/ros2]
 categories: 技术笔记
+draft: false
 ---
 
 | 环境 | WSL2 Ubuntu 24.04 |

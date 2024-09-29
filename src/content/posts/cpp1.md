@@ -4,6 +4,7 @@ published: 2024-06-25
 description:
 tags: [C/C++]
 categories: 技术笔记
+draft: false
 ---
 
 # 指针与 const
